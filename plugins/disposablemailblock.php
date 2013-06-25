@@ -40,6 +40,7 @@ class disposablemailblock extends phplistPlugin {
     'mt2009.com',
     'trashymail.com',
     'mytrashmail.com',
+    'mailmetrash.com',
 
     ## and another one
     'spamfree24.org',
