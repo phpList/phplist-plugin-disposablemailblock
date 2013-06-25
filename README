@@ -2,8 +2,6 @@
 phplist-plugin-disposablemailblock
 ================
 
-There is a growing popularity of disposable email addresses. However, this is completely
-in contrast to being able to run a responsible newsletter.
+There is a growing popularity of disposable email addresses. However, this is completely in contrast to being able to run a responsible newsletter.
 
-This plugin will disallow people to sign up with some of the disposable domains available.
-It will probably never cover all of them, but at least it's a start.
+This plugin will disallow people to sign up with some of the disposable domains available. It will probably never cover all of them, but at least it's a start.
