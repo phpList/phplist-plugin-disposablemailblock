@@ -91,6 +91,8 @@ class disposablemailblock extends phplistPlugin {
     
     # 10minutemail.com
     'rmqkr.net',
+    '10minutemail.com',
+    'drdrb.net',
     
     'br.mintemail.com',
     
