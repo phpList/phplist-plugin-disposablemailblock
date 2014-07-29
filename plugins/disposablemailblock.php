@@ -30,6 +30,12 @@ class disposablemailblock extends phplistPlugin {
     'notmailinator.com',
     'zippymail.info',
     'suremail.info',
+    'mailismagic.com',
+    'mailtothis.com',
+    'reallymymail.com',
+    'mailtothis.com',
+    'monumentmail.com',
+    
 
     ## and a mailinator copycat
     'mytrashmail.com',
