@@ -8,6 +8,8 @@ class disposablemailblock extends phplistPlugin {
   public $enabled = 1;
   public $description = 'Disallows signing up to the newsletter with a disposable email';
   
+  ## more to add: http://www.spambog.com/en/instructions.htm
+  
   private $disposable_domains = array(
     ## mailinator
     'mailinator.com',
@@ -35,6 +37,7 @@ class disposablemailblock extends phplistPlugin {
     'reallymymail.com',
     'mailtothis.com',
     'monumentmail.com',
+    'spambooger.com',
     
 
     ## and a mailinator copycat
@@ -115,7 +118,18 @@ class disposablemailblock extends phplistPlugin {
     'mailsto.co.cc',
     'rockuniverze.co.cc',
     
-    );
+    ##fakemailgenerator.com
+    'cuvox.de',
+    'armspy.com',
+    'dayrep.com',
+    'einrot.com',
+    'fleckens.hu',
+    'gustr.com',
+    'jourrapide.com',
+    'rhyta.com',
+    'superrito.com',
+    'teleworm.us',
+  );
     
 
   function __construct() {
