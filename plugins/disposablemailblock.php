@@ -7,6 +7,7 @@ class disposablemailblock extends phplistPlugin {
   public $authors = 'Michiel Dethmers';
   public $enabled = 1;
   public $description = 'Disallows signing up to the newsletter with a disposable email';
+  public $documentationUrl = 'https://resources.phplist.com/plugin/preventdisposable';
   
   ## more to add: http://www.spambog.com/en/instructions.htm
   
