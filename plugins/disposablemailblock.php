@@ -215,6 +215,21 @@ class disposablemailblock extends phplistPlugin {
     }
     return '';
   }
+  
+  function canSend($messagedata,$subscriberdata) {
+      if ($this->isDisposable($subscriberdata['email'])) {
+          return false;
+      }
+      return true;
+      
+  }
  
+  function validateEmailAddress($emailAddress) {
+     if ($this->isDisposable($emailAddress)) {
+         return false;
+     }
+     return true;
+  }
+
 
 }
