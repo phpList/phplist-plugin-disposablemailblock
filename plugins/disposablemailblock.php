@@ -1,7 +1,7 @@
 <?php
 
 class disposablemailblock extends phplistPlugin {
-  public $name = "Disposable email address blocker plugin for phpList";
+  public $name = "Disposable email address blocker plugin";
   public $coderoot = '';
   public $version = "0.1";
   public $authors = 'Michiel Dethmers';
