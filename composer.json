@@ -1,5 +1,5 @@
 {
-  "name": "phplist/phplist-plugin-disposablemailblock",
+  "name": "michield/phplist-plugin-disposablemailblock",
   "description": "Disposable mailblock plugin for phpList",
   "keywords": [
     "phplist",
